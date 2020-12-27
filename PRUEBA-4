@@ -1,0 +1,328 @@
+#EXTM3U
+
+
+#EXTINF:-1 ,Teleantillas Canal 2
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w2079720348.m3u8
+
+#EXTINF:-1 ,Tv Plata Canal 3
+https://ss6.domint.net:3104/tvp_str/tvplata/chunklist_w1090009437.m3u8
+
+#EXTINF:-1 ,Certv Canal 4
+http://51.89.152.28:8084/hls/certv.m3u8
+
+#EXTINF:-1 ,Telemicro Canal 5
+http://51.81.106.147:8084/hls/tmicro.m3u8
+
+#EXTINF:-1 ,Antena Latina Canal 7
+http://51.89.152.28:8084/hls/alatina.m3u8
+
+#EXTINF:-1 ,Peravia Vision Canal 8 Bani
+https://ss6.domint.net:3002/pvv_str/peravia/chunklist_w1474521638.m3u8
+
+#EXTINF:-1 ,Color Vision Canal 9
+http://51.81.106.147:8084/hls/color.m3u8
+
+#EXTINF:-1 ,Yuna Vision Canal 10
+https://ss4.domint.net:3004/yv_str/yunavision/chunklist_w1574490.m3u8
+
+#EXTINF:-1 ,TELESISTEMA 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w100081367.m3u8
+
+#EXTINF:-1 ,Telecentro Canal 13
+http://51.89.152.28:8084/hls/tcentro.m3u8
+
+#EXTINF:-1 ,Digital 15
+http://51.81.106.147:8084/hls/d15.m3u8
+
+#EXTINF:-1 ,Cinevision Canal 19
+https://rctvhdstream.com:8081/cinevision19hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,ANTENA 21
+http://51.89.152.28:8084/hls/a21.m3u8
+
+#EXTINF:-1 ,Canal 25 Santiago
+https://ss5.domint.net:3050/c25_str/canal25/chunklist_w517047345.m3u8
+
+#EXTINF:-1 ,RNN Canal 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w2037244683.m3u8
+
+#EXTINF:-1 ,Teleuniverso Canal 29
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1 ,Coral 39
+http://190.122.96.188:8888/http/005
+
+#EXTINF:-1 ,ROMANA TV CANAL 42
+http://live.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 ,TVO CANAL 49
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,ESPN
+https://live.televisiongratishd.com/tvplus2021/17_.m3u8?token=aDmvJxSAD5EuKjfO03o72g&expires=1609110789&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN 2
+https://live.televisiongratishd.com/tvplus2021/18_.m3u8?token=Jh77LAgFcp0Scv3_z-HMGQ&expires=1609111313&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN 3
+https://live.televisiongratishd.com/tvplus2021/19_.m3u8?token=yRlwBIDERXfGM_D3c6JHzQ&expires=1609111480&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN MEXICO
+https://live.televisiongratishd.com/tvplus2021/27_.m3u8?token=fB41puAl6IQ5Xtw71I_5zw&expires=1609059911&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN MEXICO 2
+https://live.televisiongratishd.com/tvplus2021/28_.m3u8?token=jgpxUyz7E2giYgmJ1bDzRA&expires=1609060038&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN MEXICO 3
+https://live.televisiongratishd.com/tvplus2021/29_.m3u8?token=JNhLwziQkNkjFpZGb2t7og&expires=1609060080&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN EXTRA
+https://live.televisiongratishd.com/tvplus2021/16_.m3u8?token=l7ZC3cZhDQajSavwtWZtkQ&expires=1609060139&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN DEPORTES
+https://live.televisiongratishd.com/tvplus2021/15_.m3u8?token=zk3loGCoJHAePE-tccP0JQ&expires=1609060173&ip=148.101.36.161
+
+#EXTINF:-1 ,ESPN PLUS
+https://live.televisiongratishd.com/tvplus2021/16_.m3u8?token=zkHb-KOpAEDTppRICSktVA&expires=1609060302&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX SPORTS
+https://live.televisiongratishd.com/tvplus2021/12_.m3u8?token=Dq-qC9iKjv2_kySswce7bA&expires=1609060369&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX SPORTS 2
+https://live.televisiongratishd.com/tvplus2021/13_.m3u8?token=TrZCZEMjGZxgre1WOsXKdw&expires=1609060416&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX SPORTS 3
+https://live.televisiongratishd.com/tvplus2021/14_.m3u8?token=2qluZ9Y_UMErZFFutb4PLA&expires=1609060452&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX SPORTS MEXICO
+https://live.televisiongratishd.com/tvplus2021/24_.m3u8?token=FwxeXaF4uqCZ0otnMP0glw&expires=1609060496&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX SPORTS MEXICO 2
+https://live.televisiongratishd.com/tvplus2021/25_.m3u8?token=U1ZQv-SFRoHhc7n3ydnTRQ&expires=1609060719&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX SPORTS MEXICO 3
+https://live.televisiongratishd.com/tvplus2021/26_.m3u8?token=9BiSSCBku7pc3L5NccQEcg&expires=1609060581&ip=148.101.36.161
+
+#EXTINF:-1 ,FOX PREMIUM ACTION
+https://espare.tk/live/1026.m3u8?token=kTALQPnT34ER7mMICrN6-w&expires=1609104774
+
+#EXTINF:-1 ,FOX PREMIUM SERIES
+https://espare.tk/live/1032.m3u8?token=CYIW9u7RTDi8K82YEAROVg&expires=1609104983
+
+#EXTINF:-1 ,FOX PREMIUM MOVIES
+https://espare.tk/live/1027.m3u8?token=AZzrYtasjRK4ZJEhK_DEZw&expires=1609105217
+
+#EXTINF:-1 ,FOX PREMIUM COMEDY
+https://espare.tk/live/1029.m3u8?token=aqrGTNMZKxSKQTo8ELfZXQ&expires=1609106604
+
+#EXTINF:-1 ,FOX PREMIUM CINEMA
+https://espare.tk/live/1031.m3u8?token=B_-d-j3nBPA3CGDvbx5zBA&expires=1609106821
+
+#EXTINF:-1 ,FOX PREMIUM FAMILY
+https://espare.tk/live/1028.m3u8?token=kBJ6gdh9lY1zCAbJ9zQ0bg&expires=1609106342
+
+#EXTINF:-1 ,HBO
+https://espare.tk/live/1019.m3u8?token=CSXl6ysJlqQtZ_0CkRwKSw&expires=1609097095
+
+#EXTINF:-1 ,HBO 2
+https://espare.tk/live/1020.m3u8?token=xHhkhBpaX5yZ2mCfilKX-Q&expires=1609097836
+
+#EXTINF:-1 ,HBO PLUS
+https://espare.tk/live/1021.m3u8?token=VMnUS7cj5m063Uj-Isbqjw&expires=1609098226
+
+#EXTINF:-1 ,HBO FAMILY
+https://espare.tk/live/1022.m3u8?token=eyVQZZm7JHo8NJf0zawDXw&expires=1609098086
+
+#EXTINF:-1 ,HBO SIGNATURE
+https://espare.tk/live/1023.m3u8?token=J-O5PAhCbO-BAsVynni3xQ&expires=1609098401
+
+#EXTINF:-1 ,HBO XTREME
+https://espare.tk/live/1034.m3u8?token=R0YD4ErxLKdH9qKWSzSGHg&expires=1609099170
+
+#EXTINF:-1 ,HBO POP
+https://espare.tk/live/1035.m3u8?token=Gz7Hf-LVtm9pLHVGGPFO0w&expires=1609098989
+
+#EXTINF:-1 ,HBO MUNDI
+https://espare.tk/live/1033.m3u8?token=zCKMDHb9GvuWJ5aQgG6aXA&expires=1609098827
+
+#EXTINF:-1 ,TNT
+https://live.televisiongratishd.com/tvplus2021/41_.m3u8?token=ghROFeyJp36tdFsvoDMYAg&expires=1609061183&ip=148.101.36.161
+
+#EXTINF:-1 ,TNT SERIE
+https://live.televisiongratishd.com/tvplus2021/76_.m3u8?token=awhOEibl5wrgxzNCDOjPIg&expires=1609061216&ip=148.101.36.161
+
+#EXTINF:-1 ,TNT SPORTS
+https://live.televisiongratishd.com/tvplus2021/9_.m3u8?token=0afk8bVJc0ZL8hoKZN4ydg&expires=1609061273&ip=148.101.36.161
+
+#EXTINF:-1 ,CINEMAX
+https://espare.tk/live/1018.m3u8?token=2XyF340Juara9Z-zWYOn0Q&expires=1609108223
+
+#EXTINF:-1 ,WARNER
+https://espare.tk/live/1049.m3u8?token=_9QZQ1cc2zKsDeFYtOqiCg&expires=1609095257
+
+#EXTINF:-1 ,GOLDEN
+https://espare.tk/live/1043.m3u8?token=tMNw47RhW7C6FPqqvIddbA&expires=1609107636
+
+#EXTINF:-1 ,GOLDEN PLUS
+https://live.televisiongratishd.com/tvplus2021/73_.m3u8?token=a3VVcV8Gbf0eIfvDwMPjuw&expires=1609061528&ip=148.101.36.161
+
+#EXTINF:-1 ,GOLDEN EDGE
+https://espare.tk/live/1045.m3u8?token=M-ppJhPBE7EliG_6SX-vmA&expires=1609107746
+
+#EXTINF:-1 ,GOLDEN PLUS
+https://espare.tk/live/1044.m3u8?token=aj2MiB8iVFo3e96pwsqkfg&expires=1609107878
+
+#EXTINF:-1 ,UNIVERSAL CHANNEL
+https://espare.tk/live/1040.m3u8?token=RHFPpEzYX8FLx7oRxvRY7Q&expires=1609107175
+
+#EXTINF:-1 ,DISCOVERY A&E
+https://live.televisiongratishd.com/tvplus2021/99_.m3u8?token=eeQTzOlNYOjlGh6fx3tWnA&expires=1609061672&ip=148.101.36.161
+
+#EXTINF:-1 ,AXN
+https://live.televisiongratishd.com/tvplus2021/78_.m3u8?token=xImiK_qWmkv3dv_5HZBsog&expires=1609061806&ip=148.101.36.161
+
+#EXTINF:-1 ,MTV
+https://live.televisiongratishd.com/tvplus2021/87_.m3u8?token=VaWOyaHOsq1eWJO0lC66Cg&expires=1609061847&ip=148.101.36.161
+
+#EXTINF:-1 ,DISNEY CHANNEL
+https://live.televisiongratishd.com/tvplus2021/107_.m3u8?token=qdkFMRQAGC_JJjZAK3qJfg&expires=1609061876&ip=148.101.36.161
+
+#EXTINF:-1 ,DISNEY XD
+https://live.televisiongratishd.com/tvplus2021/108_.m3u8?token=5QvJ1OMLEbPN4cI4J7Giqw&expires=1609061914&ip=148.101.36.161
+
+#EXTINF:-1 ,DISNEY JUNIOR
+https://live.televisiongratishd.com/tvplus2021/109_.m3u8?token=78uwAwo6TZGkdAsKXlHJKg&expires=1609061947&ip=148.101.36.161
+
+#EXTINF:-1 ,EL CHAVO
+https://live.televisiongratishd.com/tvplus2021/150_.m3u8?token=3D9GXTjMCMBNUjjZsPwK9A&expires=1609061986&ip=148.101.36.161
+
+#EXTINF:-1 ,VENUS ADUTOS
+https://live.televisiongratishd.com/tvplus2021/126_.m3u8?token=GI7FXPzyfzNMasB1Fsf3gw&expires=1609062028&ip=148.101.36.161
+
+#EXTINF:-1 ,BRAZZER TV ADULTOS
+https://live.televisiongratishd.com/tvplus2021/135_.m3u8?token=4mouZEWFxvVB7YpHENTfXw&expires=1609062057&ip=148.101.36.161
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
+
+
+#EXTINF:-1 ,
